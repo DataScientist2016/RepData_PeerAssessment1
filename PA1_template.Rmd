@@ -1,12 +1,12 @@
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = TRUE, results = "asis")
 ```
 
 # Project1
 
 Package used:
-```{r dplyr, echo=TRUE, results='hide'}
+```{r dplyr, echo=TRUE, results="hide"}
 library(dplyr)
 ```
 
